@@ -1,0 +1,17 @@
+z12lSlicesuUvaldt0.025muCHEMrRealize.out
+1.0  CHEM 0.0 0.0  0.025
+1000  5000
+Uval
+4  0.0001 0.001
+0 12 1.d-10 1 1
+0
+
+
+filename
+t, mu delmu,bpar,dtau
+warms sweeps
+U
+nwrap  difflim  errrat
+doauto,orthlen,eorth,dopair,numpair
+start
+
