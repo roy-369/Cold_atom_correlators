@@ -1,0 +1,33 @@
+u158.asc.ohio-state.edu
+user	0m0.06s
+sys	0m0.06s
+/fs/byo/trivedi/roy.369/Research/Determinant_Quantum_Monte_Carlo/UC_code/legacy-qmc/Cold_atom_correlators/Text_files/Text_files_N_10_analytic_continuation/Text_files_N_10_U_3.60_dtau_0.05/Mu_0.00/dtau_0.05_L_50/Spectral_functions_gaussian_sigma_2.0_nfreq_2501/k_point_15
+Retarded_green_function_momentum_space_avg_N_10_U_3.60_mu_0.00_dtau_0.05_L_50_k_label_15_ac.dat
+Spectral_function_momentum_space_avg_N_10_U_3.60_mu_0.00_dtau_0.05_L_50_k_label_15_gaussian_sigma_2.0_nfreq_2501_omega_max_25.0_omega_min_-25.0.dat
+sed: can't read ./time_gaussian.param: No such file or directory
+sed: can't read ./time_gaussian.param: No such file or directory
+sed: can't read ./time_gaussian.param: No such file or directory
+sed: can't read ./time_gaussian.param: No such file or directory
+sed: can't read ./time_gaussian.param: No such file or directory
+sed: can't read ./time_gaussian.param: No such file or directory
+sed: can't read ./time_gaussian.param: No such file or directory
+/var/spool/slurmd/job7981698/slurm_script: line 30: 2252984 Aborted                 maxent time_gaussian.param &> k_label_15_output_gaussian.out
+cp: cannot stat 'time_gaussian.out.avspec.dat': No such file or directory
+rm: cannot remove 'time_gaussian.out.avspec.dat': No such file or directory
+cp: cannot stat 'time_gaussian.out.avspec_back.dat': No such file or directory
+rm: cannot remove 'time_gaussian.out.avspec_back.dat': No such file or directory
+rm: cannot remove 'time_gaussian.out.chi2.dat': No such file or directory
+cp: cannot stat 'time_gaussian.out.chispec.dat': No such file or directory
+rm: cannot remove 'time_gaussian.out.chispec.dat': No such file or directory
+rm: cannot remove 'time_gaussian.out.chispec_back.dat': No such file or directory
+rm: cannot remove 'time_gaussian.out.fits.dat': No such file or directory
+cp: cannot stat 'time_gaussian.out.maxspec.dat': No such file or directory
+rm: cannot remove 'time_gaussian.out.maxspec.dat': No such file or directory
+rm: cannot remove 'time_gaussian.out.maxspec_back.dat': No such file or directory
+cp: cannot stat 'time_gaussian.out.out.h5': No such file or directory
+rm: cannot remove 'time_gaussian.out.out.h5': No such file or directory
+cp: cannot stat 'time_gaussian.out.prob.dat': No such file or directory
+rm: cannot remove 'time_gaussian.out.prob.dat': No such file or directory
+rm: cannot remove 'time_gaussian.out.spex.dat': No such file or directory
+user	0m0.10s
+sys	0m0.19s
