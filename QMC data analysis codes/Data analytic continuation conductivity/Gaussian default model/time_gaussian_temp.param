@@ -1,0 +1,12 @@
+BETA=beta			#inverse temperature
+NDAT=Tstep		#num of imag data points
+NFREQ=Omega               #num of output frequencies
+MAX_IT=4000
+OMEGA_MAX=om_max
+OMEGA_MIN=om_min
+DATASPACE=time	#!$G(i\tau)$!
+KERNEL=bosonic         #bosonic values	
+PARTICLE_HOLE_SYMMETRY=ph_case #generated away from half-filling
+DEFAULT_MODEL="gaussian"
+SIGMA=sigma
+DATA="fname"		 #location of data file
