@@ -1,0 +1,13 @@
+No of sys arguments 8
+10.00 U
+54 L
+2.7 Beta
+avg sign, density, mu 1.0 0.00
+Traceback (most recent call last):
+  File "./Data_unequal_time_green_function_average_legacy_code_spline_matsubara_frequency.py", line 985, in <module>
+    main(total,cmdargs)
+  File "./Data_unequal_time_green_function_average_legacy_code_spline_matsubara_frequency.py", line 971, in main
+    green_function_spline_FT_matsubara_averaging_momentum_space_v1(Text_dir_gf_k,Text_dir_gf_k_mf,Text_dir_gf_k_avg_ac,Text_dir_gf_k_mf_avg_ac,Text_dir_self_en_k_mf_avg_ac_v1,N,U,mu,Dtau,L,Nden,run_no,N_omeg)
+  File "./Data_unequal_time_green_function_average_legacy_code_spline_matsubara_frequency.py", line 362, in green_function_spline_FT_matsubara_averaging_momentum_space_v1
+    print("G_mf_shape",Green_function_k_mf_re.shape)   
+UnboundLocalError: local variable 'Green_function_k_mf_re' referenced before assignment

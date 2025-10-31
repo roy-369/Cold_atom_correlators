@@ -1,0 +1,4 @@
+u151.asc.ohio-state.edu
+user	0m0.16s
+sys	0m0.11s
+slurmstepd: error: Detected 2 oom-kill event(s) in StepId=6961336.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.
