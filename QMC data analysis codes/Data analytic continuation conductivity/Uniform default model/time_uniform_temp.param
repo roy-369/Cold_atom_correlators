@@ -1,11 +1,11 @@
 BETA=beta			#inverse temperature
 NDAT=Tstep		#num of imag data points
 NFREQ=Omega               #num of output frequencies
-MAX_IT=2000
+MAX_IT=4000
 OMEGA_MAX=om_max
 OMEGA_MIN=om_min
 DATASPACE=time	#!$G(i\tau)$!
-KERNEL=fermionic         #fermionic values	
-PARTICLE_HOLE_SYMMETRY=false #generated away from half-filling
+KERNEL=bosonic         #bosonic values	
+PARTICLE_HOLE_SYMMETRY=ph_case #generated away from half-filling
 DEFAULT_MODEL="flat"
 DATA="fname"		 #location of data file
